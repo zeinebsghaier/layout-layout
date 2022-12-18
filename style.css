@@ -1,0 +1,390 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+  }
+  #nav0{
+   width: 100%;
+   background-color: white;
+
+  }
+  .nav{
+    margin-left: 15% ;
+    width: 50px;
+    height: 15px;
+   
+  }
+  .nav1{
+      
+    margin-right: 15%;
+  float: right;
+  }
+  .depar {
+    display: none;
+  }
+.hov:hover depar li {
+    display: block;
+  }
+    #section1
+{
+    margin-top: 120px;
+    margin-left: 20%;
+    margin-right: 20%;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+#logostar 
+{
+    width: 55px;
+    height: 55px;
+}
+.tt
+{
+color: #00b377;
+}
+.paragraph
+{
+    margin-top: 50px;
+
+   display: flex;
+   justify-content: space-between;
+   margin-left: 70px;
+   margin-right: 50px;
+
+}
+.p1{
+
+}
+#section2{
+    display: flex;
+margin: 2% 10% ;
+justify-content: space-between  ;
+    }
+
+.ss {
+display: flex;
+}
+.p1{
+    height: 270px ;
+    width:  400px ;
+    font-weight: 300;
+   font-family:  Roboto,Arial,sans-serif;
+   color: white;
+    border-radius: 10px;
+    background-color: #00ccb1;
+    margin-top:5px ;
+    padding: 50px ;
+}
+.p2{
+    height: 270px  ;
+    width:  400px ;
+    font-weight: 300;
+    font-family:  Roboto,Arial,sans-serif;
+    color: white;
+    border-radius:  10px ;
+    margin-top: 5px ;
+    padding: 50px ;
+    background-color: #3d83df;
+    margin-left: 20px ;
+    margin-right: 20px ;
+}
+.p3{
+    height: 270px ;
+    width:  400px ;
+       font-weight: 300;
+    font-family:  Roboto,Arial,sans-serif;
+     color: white;
+   background-color:  #1b2734 ;
+   margin-top: 5px ;
+   padding: 50px ;
+   border-radius: 10px;
+}
+#sms
+{  
+  
+  width: 1100px;
+  height: 300px;   
+margin: auto;
+}
+.sms1{
+width: 500px;
+margin-right: 20px;
+margin-top: 50px;
+color:#00ccb1 ;
+font-size: x-large;
+}
+.smss{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+width: 600px;
+height: 200px;
+margin-left:400px  ;  
+margin-top:-80px;
+}
+.smss :hover{
+ background-color:#00ccb1;
+}
+#docplanner
+{
+  margin-top: 5%;
+  height: 650px;
+  width: 1400px;
+  background-color: #e5faf8;
+  margin-top: 2px;
+}
+.loop{
+  display: flex;
+  flex-wrap: wrap;
+}
+.texte1
+{
+margin-left: 10%;
+color: #00ccb1;
+margin-top: 5px;
+width: 22%;
+font-size: 200%;
+}
+.texte2
+{
+  margin-top:2% ;
+  margin-left: 10%;
+  width:  33% ;
+}
+.doc{
+margin-top: 5%;
+margin-left: 7%;
+}
+.mms{
+  width: 40px;
+  float: right;
+  background-color: white;
+  padding-right: 195px ;
+  padding-bottom: -30px;
+  margin-right: 35%;
+  margin-top: -44%;
+  border-radius: 10px;
+  }
+  .do1{
+    float: left;
+    margin-left: 90px;
+    margin-top: 25px;
+
+  }
+  .do1t{
+    color:#00ccb1 ;
+margin-left: -50px;  
+ }
+ .do1ts{
+  color:#00ccb1 ;
+  margin-left: 37px;  
+
+ }
+ .do1tm{
+  color:#00ccb1 ;
+margin-left:  38px;  
+ } 
+ .do1tms{
+  color:#00ccb1 ;
+margin-left: -50px;  
+padding-left: 120px;
+
+ }
+   .do1p{
+   }
+.mss{
+  width: 40px;
+  float: right;
+  background-color: white;
+  padding-right: 195px ;
+padding-bottom: 70px;
+border-radius: 10px;
+  margin-right: 15%;
+  margin-top: -46%;
+}
+.do1s{
+  float: left;
+  margin-left: 90px;
+  margin-top: 25px;
+}
+.do1pms{
+padding-top: 20px;
+margin-left: 60px;
+font-size: small; }
+.sms{
+  width: 40px;
+  float: right;
+  background-color: white;
+  padding-right: 199px ;
+padding-bottom: 80px ;
+  margin-right : -38%;
+  margin-top: -25%;
+  border-radius: 10px;
+}
+.do1pm{
+  padding-left: 66px;
+  font-size: small;
+
+}
+.do1ps{
+  margin-top: 20px;
+  margin-left:  40px;
+  font-size: small;
+}
+.do1ms{
+margin-left: 75px;
+  margin-top: 30px;
+
+}
+
+.msm{
+  width: 40px;
+  float: right;
+  background-color: white;
+  padding-right: 195px ;
+  margin-right: 35%;
+  margin-top: -12%;
+  border-radius: 10px;
+}
+.do1m{
+  float: left;
+  margin-left: 90px;
+  margin-top: 25px;
+}
+.test{
+    margin-top: 50px;
+
+}
+.t2{
+  margin-top: 100px;
+padding-left: 550px;  color:#00ccb1 ;
+}
+.t3{
+  margin-top: 40px;
+  padding-left: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#countrys
+{
+        display: flex ;
+    justify-content: space-between ;
+    margin: 2% 10% ;
+    flex-wrap: wrap ;
+    padding: 3% ;
+    margin-top: 300px;
+font-weight: 400;
+}
+
+.f4{
+  margin-top: 20px;
+  border-radius: 20px;
+
+}
+.f5{
+  margin-top: 20px;
+}
+.f6{
+  margin-top: 20px;
+}
+.f7{
+  margin-top: 20px;
+}
+.f8{
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 340px;
+}
+
+#option{
+text-decoration: underline;
+    font-size: 20px;
+    margin-top: 100px ;
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+#option2{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 100px ;
+    border: none;
+background: transparent;
+color: white;
+}
+#option3{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 20px ;
+    border: none;
+    color: white;
+    background: transparent;
+}
+#option4{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 16px ;
+    border: none;
+    background: transparent ;
+    color: white;
+}
+#countrys :hover
+{
+}
+.namp:hover
+{
+  box-shadow: 5px 10px #888888;
+}
+.pho{
+    margin-right: 350px ;
+}
+.namp
+{
+  background-color: white;
+  width: 310px;
+  height: 50px;
+       display: flex;
+       justify-content: space-around;
+
+      }
+.fin{
+  padding-top: 50px;
+  padding-left: 500px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bt{
+  padding-top: 40px;
+  padding-left: 550px;
+  
+}
+.bs{
+  height: 50px;
+  width: 250px;
+  color: white;
+  font-size: small;
+background-color: #3d83df;
+}
+.bs:hover
+{
+  color: aqua;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+  width: 150px;
+  height: 35px;
+  background-color:#3d83df;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+      footer{
+        padding-top: 50px;
+        padding-left: 300px;
+        text-size-adjust: 30px;
+        font-family: Roboto,Arial,sans-serif;
+        font-size: small;
+        width: 850px;
+        text-align: center ;
+        text
+        
+      }
